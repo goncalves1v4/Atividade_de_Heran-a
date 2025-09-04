@@ -32,7 +32,7 @@ namespace ConsoleApp1
 
 
         }
-        public class Carro
+        public class Carro :veiculo
         {
             public int QtdPorta;
             public bool Volante;
